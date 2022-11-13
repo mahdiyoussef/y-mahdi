@@ -1,4 +1,4 @@
-MERN DEVELOPER & BACHELOR STUDENT At CADY AYYAD University
+<MERN DEVELOPER /> & BACHELOR STUDENT At CADY AYYAD University 
 Front-end: React.js , HTML5,CSS3
 Back-end: Node.JS,Express.JS
 Mobile: React Native 
