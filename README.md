@@ -1,4 +1,4 @@
-<h1>MERN DEVELOPER & BACHELOR STUDENT At CADY AYYAD University </h1>
+
 <h1>Skills</h1>
 <div><b>Front-end:</b> React.js , HTML5,CSS3</div>
 <div><b>Back-end:</b> Node.JS,Express.JS</div>
@@ -33,4 +33,5 @@
   <b>Associated with Saham Assurance</b>
   <div>the App developed by React Native and Firebase Realtime database</br>
   for Tracking medical files<div>
+  
   
