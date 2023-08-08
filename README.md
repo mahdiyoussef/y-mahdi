@@ -1,4 +1,4 @@
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=y-mahdi&theme=material&hide_border=true&area=true" />
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/y-mahdi/count.svg" />
